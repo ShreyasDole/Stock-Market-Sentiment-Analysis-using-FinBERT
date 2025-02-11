@@ -1,7 +1,7 @@
 import requests
 from config import NEWS_API_KEY
 
-NEWS_API_URL = "Enter Your API"
+NEWS_API_URL = "https://newsapi.org/v2/everything"
 
 def fetch_news(stock_ticker):
     params = {
