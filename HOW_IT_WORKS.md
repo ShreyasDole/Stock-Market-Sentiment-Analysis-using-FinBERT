@@ -1,6 +1,6 @@
 ### 📜 `HOW_IT_WORKS.md`  
 
-```md
+
 # 🧐 How It Works – Stock Market Sentiment Analysis  
 
 This document explains **how the project works**, including:  
