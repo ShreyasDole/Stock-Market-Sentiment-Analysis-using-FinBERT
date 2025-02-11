@@ -143,6 +143,4 @@ Fetching latest stock market news...
 📌 `sentiment_model.py` → **Uses FinBERT to analyze sentiment**  
 📌 `main.py` → **Runs the program & displays results**  
 
-🚀 **Now anyone can easily understand how the project works!**  
-
 ---
