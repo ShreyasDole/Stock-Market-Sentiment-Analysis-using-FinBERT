@@ -105,6 +105,6 @@ Feel free to contribute! Open an issue or submit a pull request if you have impr
 ---
 
 ## 📢 Support  
-If you have any questions, open an issue or reach out at **doleshreyaas117@gmail.com**.
+If you have any questions, open an issue or reach out at **shreyasdole1105@gmail.com**.
 
 ---
