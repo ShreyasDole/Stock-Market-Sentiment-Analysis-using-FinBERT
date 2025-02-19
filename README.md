@@ -16,7 +16,7 @@ This project **fetches stock market news** and analyzes the sentiment (**Positiv
 
 ### **1️⃣ Clone the repository**  
 ```sh
-git clone https://github.com/shreyy2005/stock_sentiment_analysis.git
+git clone https://github.com/ShreyasDole/stock_sentiment_analysis.git
 cd stock_sentiment_analysis
 ```
 
